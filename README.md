@@ -11,13 +11,23 @@ Linux
 #### •	Python 
 #### •  Tor
 To run the file
+step 1:
 ``` bash
 git clone https://github.com/tamilspyboysofficial/Pollscammer.git
 ```
-python3 pollscammer.py
-
+step 2:
+```bash
+chmod +x pollscammer.py
 
 ``` bash
+
+```
+step 3:
+```bash
+python3 pollscammer.py
+```
+
+```bash
 
 ```
 ![Alt text](https://raw.githubusercontent.com/tamilspyboysofficial/Pollscammer/master/img/pollscammer_one.png?raw=true " Step 1")
