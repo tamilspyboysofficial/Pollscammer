@@ -1,8 +1,7 @@
 # Pollscammer
 #Note : This Script is only work on python3
 Developed by Tamil spyboy
-This is a Python Script. This script help in the time of wifi hacking
-And Blacklist Bypassing. And So On!!
+This is a Python Script.It is use to increase the vote in polltab.
 Thankyou for download this Script hope you enjoy it :)
 
 # Supported OS:
@@ -13,7 +12,7 @@ Linux
 #### •  Tor
 To run the file
 ``` bash
-git clone https://github.com/tamilspyboysofficial/Pollscammer
+git clone https://github.com/tamilspyboysofficial/Pollscammer.git
 ```
 
 
