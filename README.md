@@ -19,8 +19,6 @@ step 2:
 ```bash
 chmod +x pollscammer.py
 
-``` bash
-
 ```
 step 3:
 ```bash
