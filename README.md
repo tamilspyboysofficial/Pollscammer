@@ -7,7 +7,7 @@ Thankyou for download this Script hope you enjoy it :)
 
 # Supported OS:
 Linux 
-Termux
+&& Termux
 # Pre requisites:
 #### •	Python 
 #### •  Tor
