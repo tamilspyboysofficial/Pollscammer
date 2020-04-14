@@ -14,6 +14,7 @@ To run the file
 ``` bash
 git clone https://github.com/tamilspyboysofficial/Pollscammer.git
 ```
+python3 pollscammer.py
 
 
 ``` bash
